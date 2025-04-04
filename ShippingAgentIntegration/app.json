@@ -1,0 +1,39 @@
+{
+    "id": "afdd2e94-797d-4150-96bf-c6ba676d65bc",
+    "name": "ShippingAgentIntegrationDemo",
+    "publisher": "James Pearson",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "e723c23f-cf6c-4967-a947-7079b3d74829",
+            "name": "AppIntegrationDemo",
+            "publisher": "James Pearson",
+            "version": "1.0.0.0"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "26.0.0.0",
+    "idRanges": [
+        {
+            "from": 50400,
+            "to": 50449
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "15.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}

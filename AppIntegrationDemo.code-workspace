@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "ShippingAgentIntegration"
+		},
+		{
+			"path": "WebShopIntegration"
+		},
+		{
+			"path": "AppIntegration"
+		}
+	],
+	"settings": {}
+}
