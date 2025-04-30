@@ -1,6 +1,6 @@
 {
     "id": "6109d56d-a2e0-408e-9377-192dcab6237a",
-    "name": "WebShopIntegrationDemo",
+    "name": "Web Shop Integration",
     "publisher": "James Pearson",
     "version": "1.0.0.0",
     "brief": "",
@@ -13,7 +13,7 @@
     "dependencies": [
         {
             "id": "e723c23f-cf6c-4967-a947-7079b3d74829",
-            "name": "AppIntegrationDemo",
+            "name": "App Integration",
             "publisher": "James Pearson",
             "version": "1.0.0.0"
         }

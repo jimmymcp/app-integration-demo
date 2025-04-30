@@ -1,6 +1,6 @@
 {
     "id": "afdd2e94-797d-4150-96bf-c6ba676d65bc",
-    "name": "ShippingAgentIntegrationDemo",
+    "name": "Shipping Agent Integration",
     "publisher": "James Pearson",
     "version": "1.0.0.0",
     "brief": "",
@@ -13,7 +13,7 @@
     "dependencies": [
         {
             "id": "e723c23f-cf6c-4967-a947-7079b3d74829",
-            "name": "AppIntegrationDemo",
+            "name": "App Integration",
             "publisher": "James Pearson",
             "version": "1.0.0.0"
         }

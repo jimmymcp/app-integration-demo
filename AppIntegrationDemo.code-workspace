@@ -1,13 +1,16 @@
 {
 	"folders": [
 		{
+			"name": "AppIntegration",
+			"path": "AppIntegration"
+		},
+		{
+			"name": "ShippingAgentIntegration",
 			"path": "ShippingAgentIntegration"
 		},
 		{
+			"name": "WebShopIntegration",
 			"path": "WebShopIntegration"
-		},
-		{
-			"path": "AppIntegration"
 		}
 	],
 	"settings": {}
