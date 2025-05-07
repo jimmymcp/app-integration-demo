@@ -2,6 +2,8 @@ namespace JamesPearson.AppIntegration;
 
 codeunit 50300 "App Integration"
 {
+    SingleInstance = true;
+
     var
         Apps: Dictionary of [Enum App, Interface IApp];
 
